@@ -1,0 +1,3 @@
+displayName = test for items with custom inventory
+author = 20jonas02
+version = 0.1

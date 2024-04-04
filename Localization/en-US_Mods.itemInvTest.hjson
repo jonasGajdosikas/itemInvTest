@@ -1,0 +1,6 @@
+Items: {
+	WorkshopItem: {
+		DisplayName: Workshop Item
+		Tooltip: ""
+	}
+}
